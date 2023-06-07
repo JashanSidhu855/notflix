@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+.card{
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 250px;
+    border-radius: 15px;
+    margin: 25px;
+    padding: 10px 10px;
+}
+.show-logo{
+    width: 100%;
+}
+.lower-component{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.show-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    padding: 5px;
+}

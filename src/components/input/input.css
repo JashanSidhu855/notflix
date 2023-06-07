@@ -1,0 +1,10 @@
+
+.input-field{
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+::placeholder{
+    color: rgb(182, 182, 182);
+}
